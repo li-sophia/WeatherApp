@@ -61,7 +61,7 @@ body{
   height: 80%;
   width: 50%;
   border-bottom-left-radius: 25px;
-  background-color: #FFC107;
+  background-color: #93EDCD;
 }
 
 .temperature {
@@ -90,7 +90,7 @@ body{
 }
 
 #search-txt {
-  color: red;
+  color: #FFC107;
   height:30px;
   border-radius: 10px;
   border-style:none;
